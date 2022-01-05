@@ -3,9 +3,9 @@
 /.pnp
 .pnp.js
 
-/assets/css/.fontawesome.css.map
+/assets/css/fontawesome.css.map
 
-/assets/css/.style.css.map
+/assets/css/style.css.map
 
 
 # testing
