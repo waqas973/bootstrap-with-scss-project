@@ -1,0 +1,24 @@
+
+@use "./custom";
+
+
+// import  component 
+
+@use "./component/animations";
+@use "./component/buttons";
+@use "./component/mixins";
+@use "./component/typography";
+
+
+// import section
+
+@use  "./section/navbar";
+@use  "./section/intro-section";
+@use  "./section/companies";
+@use  "./section/services";
+@use  "./section/testimonials";
+@use  "./section/faq";
+@use  "./section/portfolio";
+@use  "./section/get-started";
+@use  "./section/footer";
+
